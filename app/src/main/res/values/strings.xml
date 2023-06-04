@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Sploot Task</string>
+    <string name="title_activity_maps">Sploot Task</string>
+
+    <string name="filter_prompt">Select a filter</string>
+    <string-array name="filter_options">
+        <item>All</item>
+        <item>Restaurants</item>
+        <item>Parks</item>
+        <item>Museums</item>
+    </string-array>
+
+    <string name="alert_message">Explore Your Surroundings!\n\n
+    Discover new places by following these steps:\n
+    1. Enter a place name in the search bar and click the search button to find your desired location.\n
+    2. Grant location permission and tap the GPS button to explore nearby attractions within a 1.5 km radius of your current location.\n
+    3. Interact with the markers on the map to access detailed information about each attraction.</string>
+</resources>
